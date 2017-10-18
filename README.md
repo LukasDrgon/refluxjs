@@ -7,6 +7,7 @@ A simple library for unidirectional dataflow architecture inspired by ReactJS [F
 [![Bower Version][bower-image]][bower-url]
 [![Build Status][travis-image]][travis-url]
 [![NPM Downloads][downloads-image]][npm-url]
+[![jsDelivr Hits][jsdelivr-image]][jsdelivr-url]
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/refluxjs.svg)](https://saucelabs.com/u/refluxjs)
 
@@ -246,3 +247,5 @@ What you've just read is a "view from 10,000 feet" type overview of getting star
 [gratipay-url]: https://gratipay.com/spoike/
 [thinkful-image]: https://tf-assets-staging.s3.amazonaws.com/badges/thinkful_repo_badge.svg
 [thinkful-url]: http://start.thinkful.com/react/?utm_source=github&utm_medium=badge&utm_campaign=reflux
+[jsdelivr-image]: https://data.jsdelivr.com/v1/package/npm/reflux/badge?style=rounded
+[jsdelivr-url]: https://www.jsdelivr.com/package/npm/reflux
